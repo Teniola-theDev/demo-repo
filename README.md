@@ -8,3 +8,4 @@ It's okay to not be expert at it.
 
 30/04/2022 3:42
 it seems it is the ssh keys not added to my git but let's go again
+so it worked, but will i have to do this all the time?
